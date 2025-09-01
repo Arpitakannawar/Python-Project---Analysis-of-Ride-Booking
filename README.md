@@ -8,9 +8,13 @@ This project focuses on analyzing ride booking data to uncover insights into cus
 📌 Features
 
 -Data preprocessing and cleaning of ride booking records
+
 -Analysis of ride outcomes: completed, canceled by customer, canceled by driver
+
 -Vehicle type popularity distribution
+
 -Peak demand analysis based on booking hours
+
 -Visualizations of key trends using Matplotlib
 
 📊 Key Insights
