@@ -20,11 +20,15 @@ This project focuses on analyzing ride booking data to uncover insights into cus
 📊 Key Insights
 
 -Distribution of completed vs. canceled rides
+
 -Most popular vehicle categories
+
 -Peak booking hours (time-based demand analysis)
+
 -Customer vs. driver cancellation patterns
 
 🛠️ Tech Stack
 
 Programming Language: Python
+
 Libraries: Pandas, Matplotlib, NumPy
